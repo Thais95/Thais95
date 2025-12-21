@@ -4,7 +4,7 @@
 <p>I'm <strong>Thaís</strong>, a Front-end Developer & UX Engineer based in Brazil who's passionate about <br> creating intuitive interfaces and designing websites that focus on both usability and accessibility.</p>
 <p>My professional and personal focus is on enhancing users' online experiences by simplifying <br> their day-to-day tasks through the creation of accessible and user-friendly websites 💜<p>
 <br>
-<div><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
+<div><img aria-hidden="true" height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
 
 ##### <a href="https://github.com/thaisdaraujo">You can find my professional account here!</a>
   
